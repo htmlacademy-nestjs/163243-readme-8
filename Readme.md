@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Диман Смирнов](https://up.htmlacademy.ru/nodejs-2/8/user/163243).
-* Наставник: `Неизвестно`.
+* Наставник: [Подниматель пингвинов](https://up.htmlacademy.ru/nodejs-2/8/user/1).
 
 ---
 
